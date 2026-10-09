@@ -28,7 +28,7 @@ millennium_EW.cur
 millennium_diag1.cur
 millennium_diag2.cur
 millennium_move.cur
-millennium_link.cur
+millennium_link.ani
 millennium_areaselect.cur
 millennium_pen.cur
 millennium_alternative.cur
@@ -46,7 +46,7 @@ horz          = "millennium_EW.cur"
 dgn1          = "millennium_diag1.cur"
 dgn2          = "millennium_diag2.cur"
 move          = "millennium_move.cur"
-link          = "millennium_link.cur"
+link          = "millennium_link.ani"
 cross         = "millennium_areaselect.cur"
 hand          = "millennium_pen.cur"
 alternate     = "millennium_alternative.cur"
